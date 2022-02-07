@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="lpad-sm-dp-plus-connector-1.0.4-jar-with-dependencies">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/com/company/libs/lpad-sm-dp-plus-connector-1.0.4-jar-with-dependencies.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
